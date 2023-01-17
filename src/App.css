@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
 .App {
   text-align: center;
 }
@@ -12,9 +14,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+/*Imagem de <a href="https://pixabay.com/pt/users/652234-652234/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1549096">Hands off my tags! Michael Gaida</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1549096">Pixabay</a>*/
 .App-header {
-  background-color: #282c34;
+  background-image: url(./lost-places-g209e7aac0_1920.jpg);
+  background-position: center;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +39,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.DigitalFont {
+  font-size: 2rem;
+  font-family: "Press Start 2P", cursive;
+}
+.cursivaFont {
+  font-size: 1.8rem;
+  font-family: "Courgette", cursive;
 }
