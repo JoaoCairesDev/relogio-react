@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fd33846.css",
+    "main.js": "/static/js/main.c1201d67.js",
+    "static/media/lost-places-g209e7aac0_1920.jpg": "/static/media/lost-places-g209e7aac0_1920.ff6ff5e8cdffd731a6b8.jpg",
+    "index.html": "/index.html",
+    "main.2fd33846.css.map": "/static/css/main.2fd33846.css.map",
+    "main.c1201d67.js.map": "/static/js/main.c1201d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd33846.css",
+    "static/js/main.c1201d67.js"
+  ]
+}
