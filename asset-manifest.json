@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/relogio-react/static/css/main.2c5dc36c.css",
+    "main.js": "/relogio-react/static/js/main.e428e729.js",
+    "static/media/lost-places-g209e7aac0_1920.jpg": "/relogio-react/static/media/lost-places-g209e7aac0_1920.ff6ff5e8cdffd731a6b8.jpg",
+    "index.html": "/relogio-react/index.html",
+    "main.2c5dc36c.css.map": "/relogio-react/static/css/main.2c5dc36c.css.map",
+    "main.e428e729.js.map": "/relogio-react/static/js/main.e428e729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c5dc36c.css",
+    "static/js/main.e428e729.js"
+  ]
+}
